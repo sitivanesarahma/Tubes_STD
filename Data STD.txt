@@ -1,0 +1,49 @@
+DATA FILM DAN GENRE
+ID Film		: A0001
+Nama Film		: The Counjuring
+Tanggal Rilis	: 26 Juli 2013
+Director		: James Wan
+Durasi	 	: 01.52.00
+Genre			: Mystery, Horror 
+
+ID Film		: A0002
+Nama Film		: Insidious
+Tanggal Rilis	: 4 Juli 2011
+Director		: James Wan
+Durasi	 	: 01.43.00
+Genre			: Horror, Mystery, Drama
+
+ID Film		: A0003
+Nama Film		: Harry Potter and the Order of the Phoenix
+Tanggal Rilis	: 19 Desember 2001
+Director		: Chris Columbus
+Durasi	 	: 02.32.00
+Genre			: Fantasy, Adventure, Drama, Mystery, Fiction
+
+ID Film		: A0004
+Nama Film		: Fantastic Beast: The Secrets of Dumbledore
+Tanggal Rilis	: 8 April 2022
+Director		: David Yates
+Durasi	 	: 02.22.00
+Genre			: Fantasy, Adventure
+
+ID Film		: A0005
+Nama Film		: Spider-Man: No Way Home
+Tanggal Rilis	: 15 Desember 2021
+Director		: Jon Watts
+Durasi	 	: 02.28.00
+Genre			: Comedy, Sci-fi, Adventure, Fantasy
+  
+ID Film		: A0006
+Nama Film		: Resident Evil: Welcome to Raccoon City
+Tanggal Rilis	: 28 Desember 2021
+Director		: Johannes Roberts
+Durasi	 	: 01.47.00
+Genre			: Horror, Sci-fi, Fantasy, Mystery
+
+ID Film		: A0007
+Nama Film		: Jigsaw
+Tanggal Rilis	: 8 November 2017
+Director		: Michaerl Spierig, Peter Spierig
+Durasi	 	: 01.31.00
+Genre			: Horror
